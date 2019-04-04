@@ -1,6 +1,6 @@
 create table REMOLQUE
 (
-	chirimoyamejorada	varchar2(50)
+	chirimoya	varchar2(50)
 	matricula	varchar2(10),
 	peso		number(6),
 	peso_carga	number(6),
