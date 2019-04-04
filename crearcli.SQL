@@ -9,7 +9,7 @@ fecha_alta	date,
 vendedor	char(3),
 compras		number(10,2)
 )
-;
+/
 
 Insert into tcliente values ('10101010','VALLE MAS ANGEL','HU','AA',TO_DATE('12/04/1996','DD/MM/YYYY'),'001',0100000);
 Insert into tcliente values ('20202020','CARRERA PEREZ LUIS','Z','BB',TO_DATE('09/02/1997','DD/MM/YYYY'),'002',0200000);
