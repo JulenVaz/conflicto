@@ -1,7 +1,7 @@
 set serveroutput on;
 set verify on;
 set timing on;
-DECLARE 
+DECLARE tu, caro
 	cursor 		cursor1 is
 						select *
 						from tvendedor;
